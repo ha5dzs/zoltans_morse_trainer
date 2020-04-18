@@ -8,6 +8,8 @@ In this app, the user who receives is in control of the transmission, and feedba
 
 If you don't have a KaiOS phone, just simply download this repository as a zip file, and open `index.html` in your web browser. Tested with recent versions of Chrome, Safari, and Firefox.
 
+You can try a live example [here.](https://ha5dzs.github.io/morse_trainer/) Bear in mind that this app was made for small screens, so probably it won't look great on a 200" 8K screen.
+
 For KaiOS users, right now the only way to install this app is via [WebIDE](https://developer.kaiostech.com/getting-started/env-setup/os-env-setup) (or, if you can use Linux, [kaiosrt](https://developer.kaiostech.com/getting-started/env-setup/simulator)).
 
 ### How to use?
