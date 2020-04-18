@@ -1,0 +1,115 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: lime;
+  font-size: 1rem;
+  text-align: center;
+}
+
+h1, h2 {
+  margin: 0 0 1rem 0;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  padding: 0;
+  border-top: 2px lime solid;
+  color:white;
+  width: 100%;
+  height: 1.75rem;
+  text-align: center;
+  font-size:1.5rem;
+  line-height: 1.4rem;
+  vertical-align: top;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+svg {
+  top: 3rem;
+  width: 100%;
+  background:black;
+  fill:lime;
+
+}
+.control_box {
+  top:2rem;
+  width: 100%;
+  border-top: 1px green solid;
+}
+
+.control_box_left {
+  position: fixed;
+  width: 50%;
+  left:0;
+  border-bottom: 1px green solid;
+}
+
+.left_image {
+  position: fixed;
+  width: 20%;
+  left: 0;
+  padding-top: 0.25rem;
+}
+
+.text_label_left {
+  padding-left:42%;
+  width:30%;
+}
+
+
+.text_value_left {
+  padding-left:22%;
+  width:30%;
+}
+
+
+.control_box_right {
+  position:fixed;
+  width: 50%;
+  right: 0;
+  border-left: 1px green solid;
+  border-bottom: 1px green solid;
+}
+
+.right_image {
+  position: fixed;
+  width: 20%;
+  left: 50%;
+  padding-top: 0.25rem;
+}
+
+.text_label_right {
+  padding-left: 42%;
+  width:30%;
+}
+
+.text_value_right {
+  padding-left: 22%;
+}
+
+.main_text {
+  width: 100%;
+  top: 8rem;
+  bottom: 1.75rem;
+  position:fixed;
+  padding-top: 3rem;
+  margin: 0;
+  line-height: 0;
+  vertical-align: middle;
+
+}
