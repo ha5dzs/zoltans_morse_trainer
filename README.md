@@ -4,6 +4,12 @@ I needed a decent web app that helps with teaching Morse. For beginners, and to 
 
 In this app, the user who receives is in control of the transmission, and feedback is available immediately after. This helps memorising the International Morse Code table because it makes it easier to identify difficult characters, and hopefully this will make future CW operators more profitient.
 
+### How to install?
+
+If you don't have a KaiOS phone, just simply download this repository as a zip file, and open `index.html` in your web browser. Tested with recent versions of Chrome, Safari, and Firefox.
+
+For KaiOS users, right now the only way to install this app is via [WebIDE](https://developer.kaiostech.com/getting-started/env-setup/os-env-setup) (or, if you can use Linux, [kaiosrt](https://developer.kaiostech.com/getting-started/env-setup/simulator)).
+
 ### How to use?
 
 Press 'Start!' or `Enter`. You will hear a letter sent in Morse. Try guessing what it was. Press 'Reveal' or `Enter` to see if you were right. Repeat this process until you get really good at it. Increase the number of characters and speed and repeat until you get really-really good at it. Then you can try transmitting :).
